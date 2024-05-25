@@ -1,0 +1,152 @@
+{
+  "items": [
+
+    {
+      "id": "tt9419884",
+      "rank": "1",
+      "rankUpDown": "+41",
+      "title": "Doctor Strange",
+      "fullTitle": "Doctor Strange in the Multiverse of Madness (2022)",
+      "year": "2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDg5ZDg2MWQtM2ExNi00ZjEzLTgzMDQtZmJlYWEwYmM4ODUxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+      "crew": "Sam Raimi (dir.), Elizabeth Olsen, Benedict Cumberbatch",
+      "imDbRating": "",
+      "imDbRatingCount": "0"
+    },
+
+    {
+      "id": "tt10293406",
+      "rank": "2",
+      "rankUpDown": "-6",
+      "title": "The Power of the Dog",
+      "fullTitle": "The Power of the Dog (2021)",
+      "year": "2021",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGRhYjE2NWUtN2FkNy00NGI3LTkxYWMtMDk4Yjg5ZjI3MWI2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+      "crew": "Jane Campion (dir.), Benedict Cumberbatch, Kirsten Dunst",
+      "imDbRating": "6.9",
+      "imDbRatingCount": "117153"
+    },
+    {
+      "id": "tt10223460",
+      "rank": "3",
+      "rankUpDown": "+1",
+      "title": "Marry Me",
+      "fullTitle": "Marry Me (2022)",
+      "year": "2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjczZjI2M2UtOGMwOS00YWFhLTg0OTYtZDY5ZWIwNjhlOWI2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_SX300.jpg",
+      "crew": "Kat Coiro (dir.), Jennifer Lopez, Owen Wilson",
+      "imDbRating": "6.1",
+      "imDbRatingCount": "12983"
+    },
+
+    {
+      "id": "tt11245972",
+      "rank": "4",
+      "rankUpDown": "+14",
+      "title": "Scream",
+      "fullTitle": "Scream (2022)",
+      "year": "2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2E4ZGFmZTgtMDVkYS00ZTk0LWIzYWMtODk5OGVmYmEyMzEzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+      "crew": "Matt Bettinelli-Olpin (dir.), Neve Campbell, Courteney Cox",
+      "imDbRating": "6.7",
+      "imDbRatingCount": "54953"
+    },
+    {
+      "id": "tt14992922",
+      "rank": "5",
+      "rankUpDown": "-5",
+      "title": "The Tinder Swindler",
+      "fullTitle": "The Tinder Swindler (2022)",
+      "year": "2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkwMTg2YWYtOGU5MS00YTdhLTg4N2QtYzcyZDE0MTlmNDU3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "crew": "Felicity Morris (dir.), Kristoffer Kumar, Cecilie Fjellhøy",
+      "imDbRating": "7.2",
+      "imDbRatingCount": "37981"
+    },
+    {
+      "id": "tt8041270",
+      "rank": "6",
+      "rankUpDown": "-2",
+      "title": "Jurassic World Dominion",
+      "fullTitle": "Jurassic World Dominion (2022)",
+      "year": "2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQzZTA2MmEtNDcwYy00ZWE0LWFlODMtOWQ2MzRjNTgyYmVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "crew": "Colin Trevorrow (dir.), Bryce Dallas Howard, Chris Pratt",
+      "imDbRating": "",
+      "imDbRatingCount": "0"
+    },
+    {
+      "id": "tt10954984",
+      "rank": "7",
+      "rankUpDown": "+116",
+      "title": "Nope",
+      "fullTitle": "Nope (2022)",
+      "year": "2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGIyNTI3NWItNTJkOS00MGYyLWE4NjgtZDhjMWQ4Y2JkZTU5XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg",
+      "crew": "Jordan Peele (dir.), Barbie Ferreira, Keke Palmer",
+      "imDbRating": "",
+      "imDbRatingCount": "0"
+    },
+    {
+      "id": "tt11271038",
+      "rank": "8",
+      "rankUpDown": "-5",
+      "title": "Licorice Pizza",
+      "fullTitle": "Licorice Pizza (2021)",
+      "year": "2021",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTgxMWJkMzItMzg1YS00NDJiLTljYjctMTc2YzQzZDZjZDAyXkEyXkFqcGdeQXVyODQ2OTIzNDU@._V1_SX300.jpg",
+      "crew": "Paul Thomas Anderson (dir.), Alana Haim, Cooper Hoffman",
+      "imDbRating": "7.6",
+      "imDbRatingCount": "39008"
+    },
+    {
+      "id": "tt11466222",
+      "rank": "9",
+      "rankUpDown": "-16",
+      "title": "Jackass Forever",
+      "fullTitle": "Jackass Forever (2022)",
+      "year": "2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjY3OTBlODktYzliNS00Y2VkLWJhZjktZDcwY2E2YzhmOThhXkEyXkFqcGdeQXVyOTg4MDMxODM@._V1_SX300.jpg",
+      "crew": "Jeff Tremaine (dir.), Johnny Knoxville, Steve-O",
+      "imDbRating": "7.6",
+      "imDbRatingCount": "10831"
+    },
+    {
+      "id": "tt10733228",
+      "rank": "10",
+      "rankUpDown": "+1",
+      "title": "Gehraiyaan",
+      "fullTitle": "Gehraiyaan (2022)",
+      "year": "2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGRhZmVhMzQtYWRhZC00MDYwLTlmMTMtZGNhYzgzOTZlZmMyXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_SX300.jpg",
+      "crew": "Shakun Batra (dir.), Deepika Padukone, Siddhant Chaturvedi",
+      "imDbRating": "6.3",
+      "imDbRatingCount": "34391"
+    },
+    {
+      "id": "tt10131024",
+      "rank": "11",
+      "rankUpDown": "+19",
+      "title": "Shut In",
+      "fullTitle": "Shut In (2022)",
+      "year": "2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzA2NjQ1NGMtMzdjMi00NTM3LTk0NjEtMDJkNTk3M2JlMjc2XkEyXkFqcGdeQXVyMTMwMjk4ODU1._V1_SX300.jpg",
+      "crew": "D.J. Caruso (dir.), Rainey Qualley, Jake Horowitz",
+      "imDbRating": "6.5",
+      "imDbRatingCount": "4316"
+    },
+    {
+      "id": "tt11541872",
+      "rank": "12",
+      "rankUpDown": "+71",
+      "title": "Big Bug",
+      "fullTitle": "Big Bug (2022)",
+      "year": "2022",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2YxMzViODItZmRmYi00N2Y3LWI2ZDktNWZlODY0NjhhNGVlXkEyXkFqcGdeQXVyMTUwOTU0Mw@@._V1_SX300.jpg",
+      "crew": "Jean-Pierre Jeunet (dir.), Isabelle Nanty, Elsa Zylberstein",
+      "imDbRating": "5.4",
+      "imDbRatingCount": "4749"
+    }
+  ],
+  "errorMessage": ""
+}
